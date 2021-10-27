@@ -23,6 +23,8 @@ styled-components:
 
 @types/styled-components: https://www.npmjs.com/package/@types/styled-components
 
+Fake Store API: https://fakestoreapi.com
+
 
 ---
 
