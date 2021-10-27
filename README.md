@@ -13,6 +13,10 @@ Material-UI: https://mui.com
 
 @material-ui/icons: https://www.npmjs.com/package/@material-ui/icons
 
+react-query:
+* https://www.npmjs.com/package/react-query
+* https://react-query.tanstack.com
+
 ---
 
 # Getting Started with Create React App
