@@ -27,6 +27,9 @@ const App = () => {
     'products',
     getProducts
   )
+
+  console.log(data)
+
   return <div className="App">Start</div>
 }
 
