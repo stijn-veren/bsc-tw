@@ -21,6 +21,9 @@ styled-components:
 * https://www.npmjs.com/package/styled-components
 * https://styled-components.com
 
+@types/styled-components: https://www.npmjs.com/package/@types/styled-components
+
+
 ---
 
 # Getting Started with Create React App
