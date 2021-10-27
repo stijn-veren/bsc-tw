@@ -7,7 +7,11 @@
 
 ## Resources
 
-...
+Material-UI: https://mui.com
+
+@material-ui/core: https://www.npmjs.com/package/@material-ui/core
+
+@material-ui/icons: https://www.npmjs.com/package/@material-ui/icons
 
 ---
 
