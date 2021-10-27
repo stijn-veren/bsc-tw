@@ -17,6 +17,10 @@ react-query:
 * https://www.npmjs.com/package/react-query
 * https://react-query.tanstack.com
 
+styled-components:
+* https://www.npmjs.com/package/styled-components
+* https://styled-components.com
+
 ---
 
 # Getting Started with Create React App
