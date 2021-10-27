@@ -30,6 +30,12 @@ const App = () => {
 
   console.log(data)
 
+  const getTotalItems = () => null
+
+  const handleAddToCart = () => null
+
+  const handleRemoveFromCart = () => null
+
   return <div className="App">Start</div>
 }
 
