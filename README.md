@@ -1,5 +1,8 @@
 # Shopping Cart
 
+![Screenshot of the resulting shopping cart](https://github.com/stijn-veren/bsc-tw-react-shopping-cart/blob/main/screenshots/Screenshot-1.png)
+![Screenshot of the resulting shopping cart](https://github.com/stijn-veren/bsc-tw-react-shopping-cart/blob/main/screenshots/Screenshot-2.png)
+
 ## Learning Project
 
 **Build a Shopping Cart with React and TypeScript by Thomas Weibenfalk:** https://youtu.be/sfmL6bGbiN8 \
