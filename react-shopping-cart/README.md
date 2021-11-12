@@ -1,36 +1,3 @@
-# Shopping Cart
-
-![Screenshot of the resulting shopping cart](https://github.com/stijn-veren/bsc-tw-react-shopping-cart/blob/main/screenshots/Screenshot-1.png)
-![Screenshot of the resulting shopping cart](https://github.com/stijn-veren/bsc-tw-react-shopping-cart/blob/main/screenshots/Screenshot-2.png)
-
-## Learning Project
-
-**Build a Shopping Cart with React and TypeScript by Thomas Weibenfalk:** https://youtu.be/sfmL6bGbiN8 \
-**Projects List:** https://github.com/stijn-veren/projects-list
-
-## Resources
-
-@material-ui/core:
-* https://www.npmjs.com/package/@material-ui/core
-* https://mui.com
-
-@material-ui/icons: https://www.npmjs.com/package/@material-ui/icons
-
-react-query:
-* https://www.npmjs.com/package/react-query
-* https://react-query.tanstack.com
-
-styled-components:
-* https://www.npmjs.com/package/styled-components
-* https://styled-components.com
-
-@types/styled-components: https://www.npmjs.com/package/@types/styled-components
-
-Fake Store API: https://fakestoreapi.com
-
-
----
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
