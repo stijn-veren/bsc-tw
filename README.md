@@ -1,5 +1,8 @@
 # BSC-TW
 
+> ### This is not an official repository for the tutorial code.
+> This repository was created by me for educational purposes during the study of the course and may contain differences from the original code.
+
 **Name:** Build a Shopping Cart with React and TypeScript
 
 **Author:** Thomas Weibenfalk
